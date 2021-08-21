@@ -1,9 +1,6 @@
 # `Real Time Numberplate Detection`
 
-## `IEEE Project`
 
-
-### **By Aayush and Hitanshu**
 ---
 
 ## ```System Setup```
